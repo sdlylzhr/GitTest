@@ -16,6 +16,8 @@ public class MainTest {
 
         Integer b = 3333;
 
+        System.out.println("上课注意听讲!");
+
 
     }
 }
