@@ -19,6 +19,10 @@ public class MainTest {
 
         Integer b = 3333;
 
+        Integer c=444;
+        System.out.println(b+c);
+        
+
 
     }
 
