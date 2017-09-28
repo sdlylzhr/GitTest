@@ -19,6 +19,9 @@ public class MainTest {
 
         Integer b = 3333;
 
+        System.out.println("韦德和詹姆斯是基友");
+
+        Integer c=4444;
 
     }
 
