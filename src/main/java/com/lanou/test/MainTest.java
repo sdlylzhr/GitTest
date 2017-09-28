@@ -16,6 +16,9 @@ public class MainTest {
 
         Integer b = 3333;
 
+        System.out.println("切克闹");
+
+
 
     }
 }
