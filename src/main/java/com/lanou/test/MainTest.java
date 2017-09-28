@@ -17,6 +17,6 @@ public class MainTest {
         Integer b = 3333;
 
         String str = "傻博";
-
+        System.out.println(str);
     }
 }
