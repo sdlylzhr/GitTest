@@ -7,7 +7,6 @@ public class MainTest {
     public static void main(String[] args) {
         System.out.println("hahaha");
 
-
         Integer a = 20;
         a++;
         System.out.println(a);
@@ -16,6 +15,7 @@ public class MainTest {
 
         Integer b = 3333;
 
+        System.out.println("哈哈哈哈:--");
 
     }
 }
