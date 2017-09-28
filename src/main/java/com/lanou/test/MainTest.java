@@ -19,7 +19,7 @@ public class MainTest {
 
         Integer b = 3333;
 
-
+        System.out.println("hello world");
     }
 
 }
