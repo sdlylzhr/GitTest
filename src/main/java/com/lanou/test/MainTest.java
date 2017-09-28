@@ -12,9 +12,15 @@ public class MainTest {
         a++;
         System.out.println(a);
 
-        System.out.println("别睡觉, 会死!");
+        System.out.println("就是想睡觉,想睡觉想睡觉想睡觉想睡觉,睡睡睡觉觉,我就是就是爱睡觉");
 
         Integer b = 3333;
+
+        System.out.println(b);
+
+        System.out.println(b++);
+
+        System.out.println(++b);
 
 
     }
