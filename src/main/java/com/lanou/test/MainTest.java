@@ -18,5 +18,7 @@ public class MainTest {
 
         System.out.println("赶紧睡觉!!!!!");
 
+        System.out.println("今天是2017年9月29日星期五");
+
     }
 }
