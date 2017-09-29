@@ -14,6 +14,8 @@ public class MainTest {
 
         System.out.println("别睡觉, 会死!");
 
+        System.out.println("卢萨卡订饭了束带结发啦数据");
+
         Integer b = 3333;
 
         System.out.println("sfsdfsdsfsdfsfsdfs");
